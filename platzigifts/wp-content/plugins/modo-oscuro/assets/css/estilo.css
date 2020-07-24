@@ -1,0 +1,12 @@
+body
+{
+	/*Prioriza ésta propiedad sobre el elemento*/
+	background-color: black !important;
+}
+
+span,p,h1,h2,h3,h4,a
+{
+	/*Prioriza ésta propiedad sobre los elemento*/
+	color: white !important;
+}
+
